@@ -1,5 +1,14 @@
-# muos-theme-cybermu
-Original theme for MuOS
+# **<p align=center>Cybermu</p>**
+
+*<p align=center> Original theme for MuOS</p>*
+
+<br>
+
+| 4:3 Boot Logo Preview | 4:3 Theme Preview |
+| -- | -- |
+| ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/wip.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/preview.png) |
+
+### **<p align=center>-= Notes =-</p>**
 
 In progress..
 
