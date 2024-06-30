@@ -1,11 +1,14 @@
 # muos-theme-cybermu
 Original theme for MuOS
 
-Pending...
+In progress..
+
+
+
 
 
 ### **Acknowledgments**
-* All images sourced from image depositories that allow user downloads, transferable rights and creation of derivative works per thier ToS, such as Danbooru. In some cases official art, screenshots or wallpaper may be used as placeholders.
+* All background artwork is sourced from image depositories that allow user downloads, transferable rights and creation of derivative works per thier ToS, such as Danbooru. In some cases official art, screenshots or wallpaper may be used.
 ###### *<p align=center>(If you are the original artist and would like your work removed from this project, please contact me via Discord: @GHROTIC)</p>*
 
 ## **License**
