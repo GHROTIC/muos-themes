@@ -4,9 +4,13 @@
 
 <br>
 
-| 4:3 Boot Logo Preview | 4:3 Theme Preview |
-| -- | -- |
-| ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/wip.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/preview.png) |
+<div align=center>
+  
+  | 4:3 Boot Logo Preview | 4:3 Theme Preview |
+  | -- | -- |
+  | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/wip.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/preview.png) |
+
+</div>
 
 ### **<p align=center>-= Notes =-</p>**
 
