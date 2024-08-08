@@ -2,7 +2,7 @@
 
 *<p align=center> Original theme for MuOS</p>*
 
-The theme can currently be found on the MuOS Discord. I will also add it here for download at a later date.
+<p align=center>The theme can currently be found on the MuOS Discord. I will also add the download here at a later date.</p>
 
 <br>
 
