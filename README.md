@@ -2,6 +2,8 @@
 
 *<p align=center> Original theme for MuOS</p>*
 
+The theme can currently be found on the MuOS Discord. I will also add it here for download at a later date.
+
 <br>
 
 <div align=center>
