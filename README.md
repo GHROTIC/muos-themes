@@ -16,7 +16,7 @@
 
 ### **<p align=center>-= Notes =-</p>**
 
-In progress..
+You can find this theme along many others from the community at: https://muos.dev/themes
 
 
 
