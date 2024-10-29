@@ -12,7 +12,7 @@
 
 <div align=center>
 
-  ## **<p align=center>BreathofMU</p>**
+  ## **<p align=center>BreathofMU-Wilds</p>**
   
   | 4:3 Boot Logo Preview | 4:3 Theme Preview |
   | -- | -- |
@@ -22,7 +22,7 @@
 
 <div align=center>
 
-  ## **<p align=center>BreathofMU</p>**
+  ## **<p align=center>BreathofMU-Zelda</p>**
   
   | 4:3 Boot Logo Preview | 4:3 Theme Preview |
   | -- | -- |
