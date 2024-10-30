@@ -6,9 +6,9 @@
 
   ### **<p align=center>BreathofMU-Wilds</p>**
   
-  | 4:3 Boot Logo Preview | 4:3 Theme Preview |
-  | -- | -- |
-  | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/Boot.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/CyberMU.png) |
+  | 4:3 Boot Logo Preview | 4:3 Theme Preview | 4:3 Theme Preview 2 |
+  | -- | -- | -- |
+  | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/Boot.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/CyberMU.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/CyberMU.png) |
 
 </div>
 
