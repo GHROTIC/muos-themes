@@ -10,20 +10,20 @@
   | -- | -- |
   | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Wilds/preview.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Wilds/preview2.png) |
 
-Download: [Normal](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds.zip) | [RGCubeXX](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds-RGCubeXX.zip)
+Download: [Standard (4:3)](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds.zip) | [RGCubeXX](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds-RGCubeXX.zip)
 </div>
 
 <br>
 
 <div align=center>
 
-  ### **<p align=center>BreathofMU-Zelda (Animated)</p>**
+  ### **<p align=center>BreathofMU-Zelda (Animated) -- COMING SOON --</p>**
   
   | 4:3 Boot Logo Preview | 4:3 Theme Preview |
   | -- | -- |
   | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Zelda/preview.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Zelda/preview2.png) |
 
-Download: Normal
+Download: Standard (4:3) | RGCubeXX
 </div>
 
 <br>
@@ -36,7 +36,7 @@ Download: Normal
   | -- | -- |
   | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/CyberMU/preview.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-theme-cybermu/blob/main/assets/preview/CyberMU/preview2.png) |
 
-Download: Normal 
+Download: [Standard (4:3)](https://github.com/MustardOS/theme/releases/latest/download/CyberMU.zip) 
 </div>
 
 <br>
