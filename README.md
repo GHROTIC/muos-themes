@@ -43,7 +43,7 @@ Download: [Standard (4:3) (MuOS BANANA ONLY)](https://github.com/MustardOS/theme
 
 ## **<p align=center>-= Install =-</p>**
 
-Do not Unzip the file. Place the .zip file into your ./MUOS/theme directory on your Micro SD Card. The theme will then become selectable in Config -> Theme Picker.
+Do not Unzip the file. Place the .muxthm or .zip file into your ./MUOS/theme directory on your Micro SD Card. The theme will then become selectable in Config -> Customization -> Theme Picker.
 
 <br>
 
