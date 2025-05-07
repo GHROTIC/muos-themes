@@ -10,7 +10,7 @@
   | -- | -- |
   | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Wilds/preview.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Wilds/preview2.png) |
 
-Download: [Standard (4:3)](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds.zip) | [RGCubeXX](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds-RGCubeXX.zip)
+Download: [Standard (4:3)](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0.1/BreathofMU-Wilds.muxthm) | [RGCubeXX (BANANA ONLY)](https://github.com/GHROTIC/muos-themes/releases/download/BreathofMU-Wilds.v1.0/BreathofMU-Wilds-RGCubeXX.zip)
 </div>
 
 <br>
