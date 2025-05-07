@@ -30,7 +30,7 @@ Download: Standard (4:3) | RGCubeXX
 
 <div align=center>
 
-  ### **<p align=center>CyberMU</p>**
+  ### **<p align=center>CyberMU (OUTDATED - BANANA ONLY)</p>**
   
   | 4:3 Boot Logo Preview | 4:3 Theme Preview |
   | -- | -- |
