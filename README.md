@@ -17,19 +17,6 @@ Download: [Standard (4:3) (MuOS PIXIE Support!)](https://github.com/GHROTIC/muos
 
 <div align=center>
 
-  ### **<p align=center>BreathofMU-Zelda (Animated) -- COMING SOON --</p>**
-  
-  | 4:3 Boot Logo Preview | 4:3 Theme Preview |
-  | -- | -- |
-  | ![4:3 Boot Logo](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Zelda/preview.png) | ![4:3 Preview](https://github.com/GHROTIC/muos-themes/blob/main/assets/preview/BreathofMU-Zelda/preview2.png) |
-
-Download: Standard (4:3) | RGCubeXX
-</div>
-
-<br>
-
-<div align=center>
-
   ### **<p align=center>CyberMU</p>**
   
   | 4:3 Boot Logo Preview | 4:3 Theme Preview |
